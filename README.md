@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
 
-<!--
-**Darshan1355/Darshan1355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- AI & Data Science student
+- Interested in Cloud, Data Science, Web & App dev
+- Currently learning Generative AI
 
-Here are some ideas to get you started:
+## 🔥 Competitive Programming
+- LeetCode: 150+ problems solved
+- CodeChef ⭐
+- HackerRank ⭐⭐⭐⭐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan1355&show_icons=true)
+
+## 🎯 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/darshan_amane)
+
+## 💼 Projects
+- 🔹 Farm Genius – Dual login …
+- 🔹 File compression using Flutter …
+- …
+
+## 📫 Contact
+- Email: example@gmail.com
+- LinkedIn: …
