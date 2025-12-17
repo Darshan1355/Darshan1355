@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name> 👋
+# Hi, I'm Darshan 👋
 
 ## 🚀 About Me
 - AI & Data Science student
@@ -22,5 +22,9 @@
 - …
 
 ## 📫 Contact
-- Email: example@gmail.com
-- LinkedIn: …
+- Email: darshanamane083@gmail.com
+- LinkedIn:Darshan Amane
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react)
