@@ -171,7 +171,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1355&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darshan1355&theme=dark)
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=Darshan1355&color=green)
 
