@@ -139,8 +139,14 @@
 ### 🏆 Achievements  
 - Completed Generative AI course  
 - GitHub deployments (websites)  
-- Active on LeetCode & HackerRank  
-- Built full-stack mini projects  
+- Active on LeetCode & HackerRank
+-  Built full-stack mini projects
+    
+  ### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Darshan1355?theme=dark&ext=heatmap)
+
+ 
 
 ---
 
