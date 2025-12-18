@@ -144,7 +144,7 @@
     
   ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Darshan1355?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/darshan_amane?theme=dark&ext=heatmap)
 
  
 
