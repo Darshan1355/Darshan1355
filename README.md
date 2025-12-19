@@ -2,6 +2,8 @@
 
 ## 🌐 Welcome to My GitHub Universe! 🚀  
 
+<p><img align="right" height="300" width="400" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
 ### 🤖 *“Crafting intelligent solutions through code, creativity, and curiosity.”*  
 
 ---
