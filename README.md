@@ -40,46 +40,54 @@
 
 ---
 
-### 🧰Databases
+#### 🧰Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
  
 ---
 
-### Design  
+#### Design  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
 
-### ML/DL
+#### ML/DL
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ---
 
-### CI/CD VCS
+#### CI/CD VCS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
 
-### Testing
+#### Testing
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
 
 ---
 
-### Other
+#### Other
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)  ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
   
-  ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/darshan_amane?theme=dark&ext=heatmap)
+#### 🧠 LeetCode Stats
 
- 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/darshan_amane
+  ?theme=dark
+  &font=Inter
+  &ext=contest
+  &border=0
+  &radius=12" />
+</p>
+
+
 
 ---
 
-### 📚 Featured Projects  
+#### 📚 Featured Projects  
 > *(temporary placeholders — you can replace these later)*  
 
 - 🚜 **AgriSmart Assistant** – Smart data-driven crop & market analysis  
@@ -88,26 +96,55 @@
 
 ---
 
-### 🌟 A Unique Thing About Me  
+#### 🌟 A Unique Thing About Me  
 > I approach learning like *building lego blocks* — solid fundamentals first, scalable systems later.  
 > My philosophy: **Think → Build → Break → Improve.**
 
 ---
 
-### 📊 GitHub Stats & Visuals  
+#### 📊 GitHub Stats & Visuals  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan1355&show_icons=true&theme=dark)
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api
+  ?username=darshan1355
+  &show_icons=true
+  &include_all_commits=true
+  &count_private=true
+  &theme=dark
+  &hide_border=true" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/
+  ?username=darshan1355
+  &layout=compact
+  &langs_count=8
+  &theme=dark
+  &hide_border=true" />
+</p>
 
 
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan1355&layout=compact&theme=dark)
+#### 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com
+  ?user=darshan1355
+  &theme=dark
+  &hide_border=true" />
+</p>
 
 
 ---
 
+#### Profile Visits
 ![Profile Visits](https://komarev.com/ghpvc/?username=Darshan1355&color=green)
 
 
