@@ -74,12 +74,7 @@
 
 #### 🧠 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/darshan_amane
-  ?theme=dark
-  &font=Inter
-  &ext=contest
-  &border=0
-  &radius=12" />
+  <img src="https://leetcard.jacoblin.cool/darshan_amane?theme=dark&font=Inter&ext=contest&border=0&radius=12" />
 </p>
 
 
@@ -106,26 +101,16 @@
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api
-  ?username=Darshan1355
-  &show_icons=true
-  &include_all_commits=true
-  &count_private=true
-  &theme=dark
-  &hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan1355&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=Darshan1355
-  &layout=compact
-  &langs_count=8
-  &theme=dark
-  &hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1355&layout=compact&langs_count=8&theme=dark&hide_border=true" />
 </p>
+
 
 
 
@@ -133,12 +118,12 @@
 
 #### 🔥 GitHub Streak
 
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com
-  ?user=Darshan1355
-  &theme=dark
-  &hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=darshan1355&theme=dark&hide_border=true" />
 </p>
+
 
 
 ---
