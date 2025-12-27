@@ -73,7 +73,6 @@
   
 
 #### 🧠 LeetCode Stats
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/darshan_amane
   ?theme=dark
@@ -108,7 +107,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api
-  ?username=darshan1355
+  ?username=Darshan1355
   &show_icons=true
   &include_all_commits=true
   &count_private=true
@@ -121,7 +120,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=darshan1355
+  ?username=Darshan1355
   &layout=compact
   &langs_count=8
   &theme=dark
@@ -136,7 +135,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com
-  ?user=darshan1355
+  ?user=Darshan1355
   &theme=dark
   &hide_border=true" />
 </p>
@@ -145,6 +144,7 @@
 ---
 
 #### Profile Visits
+
 ![Profile Visits](https://komarev.com/ghpvc/?username=Darshan1355&color=green)
 
 
