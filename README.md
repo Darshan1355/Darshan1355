@@ -83,31 +83,16 @@
 
 #### 📚 Featured Projects  
  
-- 🚜 **Trusttrip** – Smart Tourist Safety Monitoring System  
-- 📦 **Candidate Selector (Gen AI Based)** – AI Based Candidate Selector For HR  
-- 🎓 **Library Management System** – LMS using Spring Boot and React Frameworks 
+-  **Trusttrip (Mobile App)** – Smart Tourist Safety Monitoring System  
+-  **Candidate Selector (Gen AI Based)** – AI Based Candidate Selector For HR  
+-  **Library Management System** – LMS using Spring Boot and React Frameworks
+-  **Data Analyzer (Gen AI Based)** – AI Based Data Analyzer and Query Predictor for Data Analysts  
 
 ---
 
 #### 🌟 A Unique Thing About Me  
 > I approach learning like *building lego blocks* — solid fundamentals first, scalable systems later.  
 > My philosophy: **Think → Build → Break → Improve.**
-
----
-
-#### 📊 GitHub Stats & Visuals  
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan1355&show_icons=true&theme=dark&hide_border=true" alt="Darshan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1355&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-
 
 
 ---
