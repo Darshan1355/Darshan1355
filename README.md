@@ -97,17 +97,14 @@
 
 #### 📊 GitHub Stats & Visuals  
 
-#### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan1355&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan1355&show_icons=true&theme=dark&hide_border=true" alt="Darshan's GitHub Stats" />
 </p>
 
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1355&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan1355&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 
@@ -153,13 +150,13 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:darshanamane083@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/darshan-amane/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com/" target="_blank">
+  <a href="portfolio-project-eosin-pi.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
