@@ -85,7 +85,7 @@
  
 -  **Trusttrip (Mobile App)** – Smart Tourist Safety Monitoring System  
 -  **Candidate Selector (Gen AI Based)** – AI Based Candidate Selector For HR  
--  **Library Management System** – LMS using Spring Boot and React Frameworks
+-  **Careermind** – AI Based Resume Analyzer using Spring Boot, React Frameworks, ML model, Docker
 -  **Data Analyzer (Gen AI Based)** – AI Based Data Analyzer and Query Predictor for Data Analysts  
 
 ---
@@ -138,10 +138,10 @@
   <a href="mailto:darshanamane083@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/darshan-amane/" target="_blank">
+  <a href="https://www.linkedin.com/in/darshan-amane-4722512ba?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="portfolio-project-eosin-pi.vercel.app" target="_blank">
+  <a href="https://portfolio-project-darshan-amanes-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
